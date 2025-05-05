@@ -62,8 +62,10 @@ En prueba_componente/Collage.java se inicializan cuatro instancias de Componente
 
 ## 🖼 Capturas de pantalla
 - ** Ventana de ingreso de rutas (Prueba)
+![WhatsApp Image 2025-05-04 at 21 18 06_34759e08](https://github.com/user-attachments/assets/9b76e1d8-c643-4a8c-b25c-0ed3038c03d0)
 
 - ** Ventana de collage con zoom (Collage)
+![WhatsApp Image 2025-05-04 at 19 02 07_dad4e941](https://github.com/user-attachments/assets/871974e4-5e51-4ba4-bf61-9c0da4f044ca)
 
 ---
 
