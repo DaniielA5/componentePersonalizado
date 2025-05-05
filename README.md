@@ -2,11 +2,6 @@
 
 Este repositorio contiene un *componente visual personalizado* en Java Swing que permite cargar y mostrar imágenes con funcionalidad de zoom. Fue desarrollado como parte de una práctica académica en el Instituto Tecnológico de Oaxaca.
 
----
-
-## 📽 Video tutorial
-
-🔗 [Ver tutorial en YouTube](https://www.youtube.com/watch?v=TU-ENLACE-AQUI)
 
 ---
 
@@ -74,7 +69,15 @@ En prueba_componente/Collage.java se inicializan cuatro instancias de Componente
 
 ## 👥 Créditos del equipo
 - ** Juarez Ramirez Daniel Alexis
-- ** Bautista Centeno Francisco Elias 
+- ** Bautista Centeno Francisco Elias
+
+  ---
+
+## 📽 Video tutorial
+
+🔗 [Ver tutorial en YouTube](https://youtu.be/vgEDHcc4_6E?si=M7uocwvHx0AvSjmw)
+  
+  ---
 
 ##  ✅ Estado del proyecto
 - ** versiones actuales
