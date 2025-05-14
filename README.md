@@ -80,6 +80,9 @@ En prueba_componente/Collage.java se inicializan cuatro instancias de Componente
 🔗 [Ver tutorial en YouTube](https://youtu.be/vgEDHcc4_6E?si=M7uocwvHx0AvSjmw)
   
   ---
+##Cambios
+--Se hicieroin cambios a los archivos y ahora solo es uno en donde se nombra como NuevoComponente (NnuevoComponente)
+este tiene mejores propiedades y es una forma mas prqctica de verlo :)
 
 ##  ✅ Estado del proyecto
 - ** versiones actuales
